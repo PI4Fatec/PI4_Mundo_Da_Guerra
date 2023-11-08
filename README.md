@@ -1,16 +1,12 @@
 # PI4_Edu_de_Qualidade
 
-1ºContent Structure: Describe how the app will be organized, including sections for each war Brazil participated in, biographies of historical figures,
-and information on military strategies. Explain how users will navigate and access content in an intuitive way.
+1º Estrutura de Conteúdo: Descreva como o aplicativo será organizado, incluindo seções para cada guerra em que o Brasil participou, biografias de figuras históricas e informações sobre estratégias militares. Explique como os usuários vão navegar e acessar o conteúdo de forma intuitiva.
 
-2ºInteractive Features: Discuss the interactive features that the app will offer, such as quizzes, videos, interactive maps, and simulations.
-How will these features be incorporated to make learning more engaging and interactive?
+2º Recursos Interativos: Discuta os recursos interativos que o aplicativo oferecerá, como questionários, vídeos, mapas interativos e simulações. Como esses recursos serão incorporados para tornar a aprendizagem mais envolvente e interativa?
 
-3ºPersonalization and Progress Tracking: Explain how users will be able to personalize their learning experience, set goals, and track their progress.
-This may include the ability to bookmark favorite content, take knowledge assessments, and receive feedback on their performance.
+3º Personalização e Acompanhamento do Progresso: Explique como os usuários poderão personalizar sua experiência de aprendizado, definir metas e acompanhar seu progresso. Isso pode incluir a capacidade de marcar conteúdo favorito, realizar avaliações de conhecimento e receber feedback sobre seu desempenho.
 
-4ºAvailability and Platforms: Specify on which platforms the app will be available (e.g., mobile devices, desktop)
-and whether there will be versions for specific operating systems. Also, mention if the app will be free or follow a subscription model.
+4º Disponibilidade e Plataformas: Especifique em quais plataformas o aplicativo estará disponível (por exemplo, dispositivos móveis, desktop) e se haverá versões para sistemas operacionais específicos. Também, mencione se o aplicativo será gratuito ou seguirá um modelo de assinatura.
 
 
 Project for Quality Education
