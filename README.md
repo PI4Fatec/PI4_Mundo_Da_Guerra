@@ -12,4 +12,6 @@ This may include the ability to bookmark favorite content, take knowledge assess
 4ºAvailability and Platforms: Specify on which platforms the app will be available (e.g., mobile devices, desktop)
 and whether there will be versions for specific operating systems. Also, mention if the app will be free or follow a subscription model.
 
-Projeto para educação de qualidade.
+
+Project for Quality Education
+
