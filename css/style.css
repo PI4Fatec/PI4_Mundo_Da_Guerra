@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+}
+
+text {
+    text-align: right;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.corpo {
+    position: relative;
+}
+
+.municipio {
+    text-align: center;
+}
+
+.municipio h2 {
+    background-color: #ff5c00;
+}
+
+header {
+    background-color: #000000;
+    padding: 1px;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+}
+
+.a {
+    display: block;
+    text-decoration: none;
+    padding: 50px;
+    background-color: #fbfbff;
+    border: 1px #000000 solid;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.a:hover {
+    color: white;
+    background-color: #ff5c00;
+}
+
+.b {
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #fbfbff;
+    border: 1px #000000 solid;
+    text-align: center;
+    margin-top: 2px;
+}
+
+.b:hover {
+    color: white;
+    background-color: #ff5c00;
+}
+
+section {
+    display: -webkit-flex;
+    display: flex;
+}
+
+nav {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: #ccc;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li a {
+    display: block;
+    top: 60px;
+}
+
+.image {
+    display: flex;
+    margin-top: 5px;
+    float: left;
+    margin-right: 40px
+}
+
+article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #f1f1f1;
+    padding: 10px;
+    border: 1px #034F6C solid;
+}
+
+footer {
+    background-color: #056169;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+@media (max-wifth: 600px) {
+    section {
+        -webkit-flex-direction: column;
+        flex-direction: column;
+    }
+}
