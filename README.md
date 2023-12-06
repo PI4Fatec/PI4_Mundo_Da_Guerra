@@ -1,4 +1,4 @@
-# PI4_Edu_de_Qualidade
+# PI4_Mundo_Da_Guerra
 
 1º Estrutura de Conteúdo: Descreva como o aplicativo será organizado, incluindo seções para cada guerra em que o Brasil participou, biografias de figuras históricas e informações sobre estratégias militares. Explique como os usuários vão navegar e acessar o conteúdo de forma intuitiva.
 
